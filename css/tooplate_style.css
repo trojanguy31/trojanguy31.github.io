@@ -98,6 +98,10 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 	padding: 100px 0 200px;
 }
 
+#site_title { 
+	text-align: center
+}
+
 #tooplate_content {
 	width: 938px;
 	height: 478px;
