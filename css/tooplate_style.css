@@ -104,6 +104,10 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 	margin: 0 auto 20px; 
 }
 
+#site_title h1 { 
+	margin: 0; 
+	padding: 0; 
+}
 
 #tooplate_content {
 	width: 938px;
